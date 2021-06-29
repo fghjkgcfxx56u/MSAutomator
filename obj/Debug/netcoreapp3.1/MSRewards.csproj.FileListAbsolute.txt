@@ -1,0 +1,51 @@
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.exe
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.deps.json
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.runtimeconfig.json
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.runtimeconfig.dev.json
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.dll
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.pdb
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.AssemblyInfoInputs.cache
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.AssemblyInfo.cs
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.csproj.CopyComplete
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.dll
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.pdb
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.genruntimeconfig.cache
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.csprojAssemblyReference.cache
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.csproj.CoreCompileInputs.cache
+C:\Project\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.exe
+C:\Project\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.deps.json
+C:\Project\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.runtimeconfig.json
+C:\Project\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.runtimeconfig.dev.json
+C:\Project\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.dll
+C:\Project\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\MSRewards.pdb
+C:\Project\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Project\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Project\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Project\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.csprojAssemblyReference.cache
+C:\Project\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.AssemblyInfoInputs.cache
+C:\Project\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.AssemblyInfo.cs
+C:\Project\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.csproj.CoreCompileInputs.cache
+C:\Project\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.csproj.CopyComplete
+C:\Project\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.dll
+C:\Project\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.pdb
+C:\Project\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\MSRewards.genruntimeconfig.cache
+C:\Projects\C#\Msrewrite\bin\Debug\netcoreapp3.1\MSRewards.exe
+C:\Projects\C#\Msrewrite\bin\Debug\netcoreapp3.1\MSRewards.deps.json
+C:\Projects\C#\Msrewrite\bin\Debug\netcoreapp3.1\MSRewards.runtimeconfig.json
+C:\Projects\C#\Msrewrite\bin\Debug\netcoreapp3.1\MSRewards.runtimeconfig.dev.json
+C:\Projects\C#\Msrewrite\bin\Debug\netcoreapp3.1\MSRewards.dll
+C:\Projects\C#\Msrewrite\bin\Debug\netcoreapp3.1\MSRewards.pdb
+C:\Projects\C#\Msrewrite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\C#\Msrewrite\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Projects\C#\Msrewrite\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Projects\C#\Msrewrite\obj\Debug\netcoreapp3.1\MSRewards.csproj.AssemblyReference.cache
+C:\Projects\C#\Msrewrite\obj\Debug\netcoreapp3.1\MSRewards.AssemblyInfoInputs.cache
+C:\Projects\C#\Msrewrite\obj\Debug\netcoreapp3.1\MSRewards.AssemblyInfo.cs
+C:\Projects\C#\Msrewrite\obj\Debug\netcoreapp3.1\MSRewards.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Msrewrite\obj\Debug\netcoreapp3.1\MSRewards.csproj.CopyComplete
+C:\Projects\C#\Msrewrite\obj\Debug\netcoreapp3.1\MSRewards.dll
+C:\Projects\C#\Msrewrite\obj\Debug\netcoreapp3.1\MSRewards.pdb
+C:\Projects\C#\Msrewrite\obj\Debug\netcoreapp3.1\MSRewards.genruntimeconfig.cache

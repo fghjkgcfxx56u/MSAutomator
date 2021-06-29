@@ -1,0 +1,17 @@
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\msrewrite csharp.exe
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\msrewrite csharp.csprojAssemblyReference.cache
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\msrewrite csharp.AssemblyInfoInputs.cache
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\msrewrite csharp.AssemblyInfo.cs
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\msrewrite csharp.csproj.CopyComplete
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\msrewrite csharp.deps.json
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\msrewrite csharp.runtimeconfig.json
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\msrewrite csharp.runtimeconfig.dev.json
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\msrewrite csharp.dll
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\msrewrite csharp.pdb
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\msrewrite csharp.dll
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\msrewrite csharp.pdb
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\msrewrite csharp.genruntimeconfig.cache
+C:\Projects\C#\msrewrite csharp\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Projects\C#\msrewrite csharp\obj\Debug\netcoreapp3.1\msrewrite csharp.csproj.CoreCompileInputs.cache
