@@ -1,0 +1,11 @@
+OpenQA.Selenium.WebDriverException: unknown error: no chrome binary at J:/Program Files/Google/Chrome/Application/chrome.exe
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.StartSession(ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)
+   at OpenQA.Selenium.Chromium.ChromiumDriver..ctor(ChromiumDriverService service, ChromiumOptions options, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeDriverService service, ChromeOptions options, TimeSpan commandTimeout)
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeDriverService service, ChromeOptions options)
+   at Msr.MSRewards.getDriver() in C:\Projects\C#\Msrewrite\Program.cs:line 29
+   at Msr.MSRewards.msr(String email, String password) in C:\Projects\C#\Msrewrite\Program.cs:line 63
+   at Msr.MSRewards.Main(String[] args) in C:\Projects\C#\Msrewrite\Program.cs:line 244
