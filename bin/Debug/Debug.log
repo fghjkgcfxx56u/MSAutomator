@@ -1,9 +1,0 @@
-OpenQA.Selenium.WebDriverException: unknown error: cannot determine loading status
-from disconnected: unable to send message to renderer
-  (Session info: chrome=91.0.4472.101)
-   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
-   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
-   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
-   at OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
-   at Msr.MSRewards.msr(String email, String password) in C:\Projects\C#\Msrewrite\Program.cs:line 59
-   at Msr.MSRewards.Main(String[] args) in C:\Projects\C#\Msrewrite\Program.cs:line 244
